@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php" : "7.4.*",
+        "php" : "7.3.*",
         "kornrunner/keccak": "^1.0",
         "ext-gmp": "*"
     },
